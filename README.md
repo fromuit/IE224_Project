@@ -11,7 +11,7 @@
 
 [![Status](https://img.shields.io/badge/status-working-green?style=flat-square)](https://github.com/fromuit/IE224_Project)
 [![GitHub contributors](https://img.shields.io/github/contributors/fromuit/IE224_Project?style=flat-square)](https://github.com/fromuit/IE224_Project/graphs/contributors)
-[![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://github.com/fromuit/IE224_Project)
+[![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://www.python.org)
 
 ## [BẢNG MỤC LỤC](#top)
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
